@@ -1,0 +1,157 @@
+{
+    "name" : "熙美诚品",
+    "appid" : "__UNI__5FA85B0",
+    "description" : "",
+    "versionName" : "4.0",
+    "versionCode" : 104,
+    "transformPx" : false,
+    "networkTimeout" : {
+        "request" : 20000,
+        "uploadFile" : 20000
+    },
+    "app-plus" : {
+        /* 5+App特有相关 */
+        "compatible" : {
+            "ignoreVersion" : true //true表示忽略版本检查提示框，HBuilderX1.9.0及以上版本支持  
+        },
+        "usingComponents" : true,
+        "splashscreen" : {
+            "alwaysShowBeforeRender" : true,
+            "waiting" : true,
+            "autoclose" : true,
+            "delay" : 0
+        },
+        "modules" : {
+            "Push" : {}
+        },
+        /* 模块配置 */
+        "distribute" : {
+            /* 应用发布信息 */
+            "android" : {
+                /* android打包配置 */
+                "permissions" : [
+                    "<uses-feature android:name=\"android.hardware.camera\"/>",
+                    "<uses-feature android:name=\"android.hardware.camera.autofocus\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>",
+                    "<uses-permission android:name=\"android.permission.CAMERA\"/>",
+                    "<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>",
+                    "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>",
+                    "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\"/>",
+                    "<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_LOGS\"/>",
+                    "<uses-permission android:name=\"android.permission.RECORD_AUDIO\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>"
+                ]
+            },
+            "ios" : {
+                "privacyDescription" : {
+                    "NSPhotoLibraryUsageDescription" : "熙美诚品需要您的同意，才能访问相册，以便于上传图片功能",
+                    "NSCameraUsageDescription" : "熙美诚品需要您的同意，才能访问摄像头，以便于扫描二维码功能",
+                    "NSPhotoLibraryAddUsageDescription" : "",
+                    "NSMicrophoneUsageDescription" : "",
+                    "NSLocationWhenInUseUsageDescription" : "",
+                    "NSLocationAlwaysUsageDescription" : "",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription" : "",
+                    "NSCalendarsUsageDescription" : "",
+                    "NSContactsUsageDescription" : "",
+                    "NSBluetoothPeripheralUsageDescription" : ""
+                }
+            },
+            /* ios打包配置 */
+            "sdkConfigs" : {
+                "push" : {}
+            },
+            "icons" : {
+                "android" : {
+                    "hdpi" : "unpackage/res/icons/72x72.png",
+                    "xhdpi" : "unpackage/res/icons/96x96.png",
+                    "xxhdpi" : "unpackage/res/icons/144x144.png",
+                    "xxxhdpi" : "unpackage/res/icons/192x192.png"
+                },
+                "ios" : {
+                    "appstore" : "unpackage/res/icons/1024x1024.png",
+                    "ipad" : {
+                        "app" : "unpackage/res/icons/76x76.png",
+                        "app@2x" : "unpackage/res/icons/152x152.png",
+                        "notification" : "unpackage/res/icons/20x20.png",
+                        "notification@2x" : "unpackage/res/icons/40x40.png",
+                        "proapp@2x" : "unpackage/res/icons/167x167.png",
+                        "settings" : "unpackage/res/icons/29x29.png",
+                        "settings@2x" : "unpackage/res/icons/58x58.png",
+                        "spotlight" : "unpackage/res/icons/40x40.png",
+                        "spotlight@2x" : "unpackage/res/icons/80x80.png"
+                    },
+                    "iphone" : {
+                        "app@2x" : "unpackage/res/icons/120x120.png",
+                        "app@3x" : "unpackage/res/icons/180x180.png",
+                        "notification@2x" : "unpackage/res/icons/40x40.png",
+                        "notification@3x" : "unpackage/res/icons/60x60.png",
+                        "settings@2x" : "unpackage/res/icons/58x58.png",
+                        "settings@3x" : "unpackage/res/icons/87x87.png",
+                        "spotlight@2x" : "unpackage/res/icons/80x80.png",
+                        "spotlight@3x" : "unpackage/res/icons/120x120.png"
+                    }
+                }
+            },
+            "splashscreen" : {
+                "android" : {
+                    "hdpi" : "static/login09.png",
+                    "xhdpi" : "static/login09.png",
+                    "xxhdpi" : "static/login09.png"
+                },
+                "ios" : {
+                    "iphone" : {
+                        "portrait-896h@3x" : "static/login09.png",
+                        "landscape-896h@3x" : "static/login09.png",
+                        "portrait-896h@2x" : "static/login09.png",
+                        "landscape-896h@2x" : "static/login09.png",
+                        "iphonex" : "static/login09.png",
+                        "iphonexl" : "static/login09.png",
+                        "retina55" : "static/login09.png",
+                        "retina55l" : "static/login09.png",
+                        "retina47" : "static/login09.png",
+                        "retina47l" : "static/login09.png",
+                        "retina40" : "static/login09.png",
+                        "retina40l" : "static/login09.png",
+                        "retina35" : "static/login09.png"
+                    },
+                    "ipad" : {
+                        "portrait-1366h@2x" : "static/login09.png",
+                        "landscape-1366h@2x" : "static/login09.png",
+                        "portrait-1194h@2" : "static/login09.png",
+                        "landscape-1194h@2x" : "static/login09.png",
+                        "portrait-1112h@2x" : "static/login09.png",
+                        "landscape-1112h@2x" : "static/login09.png",
+                        "portrait-retina7" : "static/login09.png",
+                        "landscape-retina7" : "static/login09.png",
+                        "portrait7" : "static/login09.png",
+                        "landscape7" : "static/login09.png"
+                    }
+                }
+            }
+        }
+    },
+    /* SDK配置 */
+    "quickapp" : {},
+    /* 快应用特有相关 */
+    "mp-weixin" : {
+        /* 小程序特有相关 */
+        "usingComponents" : true,
+        "appid" : "wx34e12992eed7bb02",
+        "setting" : {
+            "urlCheck" : true,
+            "minified" : true,
+            "es6" : true,
+            "postcss" : true
+        }
+    },
+    "h5" : {
+        "title" : "熙美诚品",
+        "domain" : "www.ximei.com"
+    }
+}

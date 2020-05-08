@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "活动",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar"
+  }
+}

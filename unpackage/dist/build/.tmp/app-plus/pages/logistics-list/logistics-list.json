@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "寄回产品",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

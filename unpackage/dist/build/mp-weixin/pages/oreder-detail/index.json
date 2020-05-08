@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "over": "/components/over",
+    "imglazy": "/components/img-lazy/img-lazy",
+    "uni-number-box": "/components/uni-number-box"
+  }
+}

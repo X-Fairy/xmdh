@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "我的销售",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar"
+  }
+}

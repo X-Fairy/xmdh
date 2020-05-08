@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "售后详情",
+  "usingComponents": {
+    "uni-steps": "/components/uni-steps/uni-steps",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}

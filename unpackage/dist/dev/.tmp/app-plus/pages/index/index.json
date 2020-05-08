@@ -1,0 +1,29 @@
+{
+  "navigationBarTitleText": "首页",
+  "titleNView": {
+    "type": "transparent",
+    "searchInput": {
+      "backgroundColor": "rgba(231, 231, 231,.7)",
+      "borderRadius": "16px",
+      "placeholder": "请输入搜索关键词...",
+      "disabled": true,
+      "placeholderColor": "#606266"
+    },
+    "buttons": [
+      {
+        "fontSrc": "/static/yticon.ttf",
+        "text": "",
+        "fontSize": "26",
+        "color": "#303133",
+        "float": "left",
+        "background": "rgba(0,0,0,0)"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-number-box": "/components/uni-number-box",
+    "uni-countdown": "/components/uni-countdown/uni-countdown",
+    "over": "/components/over",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}

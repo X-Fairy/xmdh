@@ -1,0 +1,13 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "商品列表",
+  "titleNView": false,
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "uni-number-box": "/components/uni-number-box",
+    "empty": "/components/empty",
+    "scrll-top": "/components/uni-scrollTo/uni-scrollTo",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}

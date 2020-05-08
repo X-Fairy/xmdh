@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "uni-countdown": "/components/uni-countdown/uni-countdown",
+    "uni-number-box": "/components/uni-number-box",
+    "over": "/components/over",
+    "imglazy": "/components/img-lazy/img-lazy",
+    "model": "/components/uni-model"
+  }
+}

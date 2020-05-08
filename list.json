@@ -1,0 +1,4100 @@
+[
+    {
+        "cls_id": "01",
+        "cls_name": "家居百货",
+        "child": {
+            "101": {
+                "cls_id": "0101",
+                "cls_name": "杯类",
+                "img": [
+                    "6970893335470",
+                    "6941595106170",
+                    "6939837616693"
+                ],
+                "index": "101",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893335470.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106170.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837616693.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "102": {
+                "cls_id": "0102",
+                "cls_name": "厨房用品",
+                "img": [
+                    "6939837608438",
+                    "6939837616686",
+                    "6939837609343"
+                ],
+                "index": "102",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837608438.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837616686.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837609343.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "103": {
+                "cls_id": "0103",
+                "cls_name": "居家用品",
+                "img": [
+                    "6941196008859",
+                    "6941196078203",
+                    "6941196078210"
+                ],
+                "index": "103",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196008859.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196078203.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196078210.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "104": {
+                "cls_id": "0104",
+                "cls_name": "收纳用品",
+                "img": [
+                    "6941196077657",
+                    "6941196077664",
+                    "6941196077671"
+                ],
+                "index": "104",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196077657.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196077664.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196077671.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "105": {
+                "cls_id": "0105",
+                "cls_name": "香氛日化",
+                "img": [
+                    "6970893330062",
+                    "6941196092940",
+                    "6970893330536"
+                ],
+                "index": "105",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893330062.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092940.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893330536.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "106": {
+                "cls_id": "0106",
+                "cls_name": "纺织用品",
+                "img": [
+                    "6941196090830",
+                    "6941196092438",
+                    "6941595108136"
+                ],
+                "index": "106",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196090830.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092438.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108136.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "107": {
+                "cls_id": "0107",
+                "cls_name": "一次性用品",
+                "img": [
+                    "6939837633942",
+                    "6941196092209",
+                    "6939837612794"
+                ],
+                "index": "107",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837633942.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092209.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837612794.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "108": {
+                "cls_id": "0108",
+                "cls_name": "儿童用品",
+                "img": [
+                    "6970893337504",
+                    "6970893337627",
+                    "13000270"
+                ],
+                "index": "108",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893337504.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893337627.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/13000270.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "109": {
+                "cls_id": "0109",
+                "cls_name": "季节产品",
+                "img": [
+                    "6941595110665",
+                    "6939837627019",
+                    "6941595119163"
+                ],
+                "index": "109",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110665.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837627019.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595119163.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "110": {
+                "cls_id": "0110",
+                "cls_name": "宠物用品",
+                "img": null,
+                "index": "110",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "111": {
+                "cls_id": "0111",
+                "cls_name": "个人护理",
+                "img": null,
+                "index": "111",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0101",
+                "cls_name": "杯类",
+                "img": [
+                    "6970893335470",
+                    "6941595106170",
+                    "6939837616693"
+                ],
+                "index": "101",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893335470.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106170.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837616693.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0102",
+                "cls_name": "厨房用品",
+                "img": [
+                    "6939837608438",
+                    "6939837616686",
+                    "6939837609343"
+                ],
+                "index": "102",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837608438.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837616686.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837609343.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0103",
+                "cls_name": "居家用品",
+                "img": [
+                    "6941196008859",
+                    "6941196078203",
+                    "6941196078210"
+                ],
+                "index": "103",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196008859.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196078203.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196078210.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0104",
+                "cls_name": "收纳用品",
+                "img": [
+                    "6941196077657",
+                    "6941196077664",
+                    "6941196077671"
+                ],
+                "index": "104",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196077657.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196077664.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196077671.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0105",
+                "cls_name": "香氛日化",
+                "img": [
+                    "6970893330062",
+                    "6941196092940",
+                    "6970893330536"
+                ],
+                "index": "105",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893330062.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092940.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893330536.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0106",
+                "cls_name": "纺织用品",
+                "img": [
+                    "6941196090830",
+                    "6941196092438",
+                    "6941595108136"
+                ],
+                "index": "106",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196090830.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092438.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108136.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0107",
+                "cls_name": "一次性用品",
+                "img": [
+                    "6939837633942",
+                    "6941196092209",
+                    "6939837612794"
+                ],
+                "index": "107",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837633942.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092209.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837612794.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0108",
+                "cls_name": "儿童用品",
+                "img": [
+                    "6970893337504",
+                    "6970893337627",
+                    "13000270"
+                ],
+                "index": "108",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893337504.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893337627.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/13000270.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0109",
+                "cls_name": "季节产品",
+                "img": [
+                    "6941595110665",
+                    "6939837627019",
+                    "6941595119163"
+                ],
+                "index": "109",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110665.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837627019.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595119163.jpg?x-oss-process=style/80",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0110",
+                "cls_name": "宠物用品",
+                "img": null,
+                "index": "110",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0111",
+                "cls_name": "个人护理",
+                "img": null,
+                "index": "111",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "02",
+        "cls_name": "健康美容",
+        "child": {
+            "201": {
+                "cls_id": "0201",
+                "cls_name": "彩妆、香水、甲油",
+                "img": [
+                    "6928441732455",
+                    "6934488908920",
+                    "6934488909019"
+                ],
+                "index": "201",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6928441732455.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6934488908920.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6934488909019.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "202": {
+                "cls_id": "0202",
+                "cls_name": "护  肤",
+                "img": [
+                    "6950079151285",
+                    "6922200824627",
+                    "6950079119636"
+                ],
+                "index": "202",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6950079151285.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6922200824627.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6950079119636.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "203": {
+                "cls_id": "0203",
+                "cls_name": "美妆工具",
+                "img": [
+                    "6941196089292",
+                    "6941196089339",
+                    "6941196089360"
+                ],
+                "index": "203",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089292.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089339.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089360.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "204": {
+                "cls_id": "0204",
+                "cls_name": "季节产品",
+                "img": [
+                    "6941924324176",
+                    "6922200852422",
+                    "6936217741976"
+                ],
+                "index": "204",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941924324176.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6922200852422.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6936217741976.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0201",
+                "cls_name": "彩妆、香水、甲油",
+                "img": [
+                    "6928441732455",
+                    "6934488908920",
+                    "6934488909019"
+                ],
+                "index": "201",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6928441732455.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6934488908920.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6934488909019.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0202",
+                "cls_name": "护  肤",
+                "img": [
+                    "6950079151285",
+                    "6922200824627",
+                    "6950079119636"
+                ],
+                "index": "202",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6950079151285.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6922200824627.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6950079119636.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0203",
+                "cls_name": "美妆工具",
+                "img": [
+                    "6941196089292",
+                    "6941196089339",
+                    "6941196089360"
+                ],
+                "index": "203",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089292.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089339.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089360.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0204",
+                "cls_name": "季节产品",
+                "img": [
+                    "6941924324176",
+                    "6922200852422",
+                    "6936217741976"
+                ],
+                "index": "204",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941924324176.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6922200852422.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6936217741976.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "03",
+        "cls_name": "饰品系列",
+        "child": {
+            "301": {
+                "cls_id": "0301",
+                "cls_name": "发夹",
+                "img": [
+                    "6941595110504",
+                    "6941595109638",
+                    "6941595110511"
+                ],
+                "index": "301",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110504.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109638.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110511.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "302": {
+                "cls_id": "0302",
+                "cls_name": "发圈",
+                "img": [
+                    "6941196088615",
+                    "6941595103711",
+                    "6941595109560"
+                ],
+                "index": "302",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196088615.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595103711.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109560.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "303": {
+                "cls_id": "0303",
+                "cls_name": "发箍",
+                "img": [
+                    "6941196064657",
+                    "6941595105074",
+                    "6941595110528"
+                ],
+                "index": "303",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196064657.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595105074.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110528.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "304": {
+                "cls_id": "0304",
+                "cls_name": "首饰",
+                "img": [
+                    "6941196096689",
+                    "6941595106002",
+                    "6941595107344"
+                ],
+                "index": "304",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196096689.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106002.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595107344.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "305": {
+                "cls_id": "0305",
+                "cls_name": "10任选",
+                "img": [
+                    "6941196087434",
+                    "6941595103742",
+                    "6941595113642"
+                ],
+                "index": "305",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196087434.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595103742.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595113642.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "306": {
+                "cls_id": "0306",
+                "cls_name": "儿童头饰",
+                "img": [
+                    "6941196089575",
+                    "6941196089599",
+                    "6941196089605"
+                ],
+                "index": "306",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089575.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089599.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089605.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "307": {
+                "cls_id": "0307",
+                "cls_name": "服装类",
+                "img": [
+                    "6939010811259",
+                    "6970893330413",
+                    "6939010800789"
+                ],
+                "index": "307",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010811259.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893330413.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010800789.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "308": {
+                "cls_id": "0308",
+                "cls_name": "季节产品",
+                "img": [
+                    "6939837600661",
+                    "6970574423465",
+                    "6970574421492"
+                ],
+                "index": "308",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837600661.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574423465.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574421492.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "309": {
+                "cls_id": "0309",
+                "cls_name": "网红爆款区",
+                "img": null,
+                "index": "309",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0301",
+                "cls_name": "发夹",
+                "img": [
+                    "6941595110504",
+                    "6941595109638",
+                    "6941595110511"
+                ],
+                "index": "301",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110504.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109638.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110511.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0302",
+                "cls_name": "发圈",
+                "img": [
+                    "6941196088615",
+                    "6941595103711",
+                    "6941595109560"
+                ],
+                "index": "302",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196088615.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595103711.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109560.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0303",
+                "cls_name": "发箍",
+                "img": [
+                    "6941196064657",
+                    "6941595105074",
+                    "6941595110528"
+                ],
+                "index": "303",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196064657.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595105074.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110528.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0304",
+                "cls_name": "首饰",
+                "img": [
+                    "6941196096689",
+                    "6941595106002",
+                    "6941595107344"
+                ],
+                "index": "304",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196096689.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106002.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595107344.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0305",
+                "cls_name": "10任选",
+                "img": [
+                    "6941196087434",
+                    "6941595103742",
+                    "6941595113642"
+                ],
+                "index": "305",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196087434.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595103742.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595113642.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0306",
+                "cls_name": "儿童头饰",
+                "img": [
+                    "6941196089575",
+                    "6941196089599",
+                    "6941196089605"
+                ],
+                "index": "306",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089575.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089599.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196089605.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0307",
+                "cls_name": "服装类",
+                "img": [
+                    "6939010811259",
+                    "6970893330413",
+                    "6939010800789"
+                ],
+                "index": "307",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010811259.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893330413.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010800789.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0308",
+                "cls_name": "季节产品",
+                "img": [
+                    "6939837600661",
+                    "6970574423465",
+                    "6970574421492"
+                ],
+                "index": "308",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837600661.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574423465.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574421492.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0309",
+                "cls_name": "网红爆款区",
+                "img": null,
+                "index": "309",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "04",
+        "cls_name": "文体礼品",
+        "child": {
+            "401": {
+                "cls_id": "0401",
+                "cls_name": "文具",
+                "img": [
+                    "6941595106361",
+                    "6941595106385",
+                    "6941595106415"
+                ],
+                "index": "401",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106361.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106385.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106415.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "402": {
+                "cls_id": "0402",
+                "cls_name": "钟表",
+                "img": [
+                    "6939837628016",
+                    "6941196042013",
+                    "6939837643552"
+                ],
+                "index": "402",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837628016.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196042013.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837643552.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "403": {
+                "cls_id": "0403",
+                "cls_name": "体育用品",
+                "img": [
+                    "6939837635748",
+                    "6939837601231",
+                    "6939837624483"
+                ],
+                "index": "403",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837635748.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837601231.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837624483.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "404": {
+                "cls_id": "0404",
+                "cls_name": "办公学习",
+                "img": [
+                    "6941595106453",
+                    "6970574422390",
+                    "6970574420891"
+                ],
+                "index": "404",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106453.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574422390.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574420891.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "405": {
+                "cls_id": "0405",
+                "cls_name": "益智早教",
+                "img": [
+                    "6941595114489",
+                    "6941196084334",
+                    "6941595114465"
+                ],
+                "index": "405",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595114489.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196084334.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595114465.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "406": {
+                "cls_id": "0406",
+                "cls_name": "礼品包装",
+                "img": [
+                    "6941595110795",
+                    "6941595110788",
+                    "6941595110764"
+                ],
+                "index": "406",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110795.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110788.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110764.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0401",
+                "cls_name": "文具",
+                "img": [
+                    "6941595106361",
+                    "6941595106385",
+                    "6941595106415"
+                ],
+                "index": "401",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106361.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106385.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106415.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0402",
+                "cls_name": "钟表",
+                "img": [
+                    "6939837628016",
+                    "6941196042013",
+                    "6939837643552"
+                ],
+                "index": "402",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837628016.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196042013.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837643552.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0403",
+                "cls_name": "体育用品",
+                "img": [
+                    "6939837635748",
+                    "6939837601231",
+                    "6939837624483"
+                ],
+                "index": "403",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837635748.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837601231.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837624483.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0404",
+                "cls_name": "办公学习",
+                "img": [
+                    "6941595106453",
+                    "6970574422390",
+                    "6970574420891"
+                ],
+                "index": "404",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595106453.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574422390.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574420891.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0405",
+                "cls_name": "益智早教",
+                "img": [
+                    "6941595114489",
+                    "6941196084334",
+                    "6941595114465"
+                ],
+                "index": "405",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595114489.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196084334.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595114465.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0406",
+                "cls_name": "礼品包装",
+                "img": [
+                    "6941595110795",
+                    "6941595110788",
+                    "6941595110764"
+                ],
+                "index": "406",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110795.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110788.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110764.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "05",
+        "cls_name": "季节潮品",
+        "child": {
+            "501": {
+                "cls_id": "0501",
+                "cls_name": "伞类",
+                "img": [
+                    "6939837628443",
+                    "6970893337870",
+                    "6939837612190"
+                ],
+                "index": "501",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837628443.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893337870.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837612190.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "502": {
+                "cls_id": "0502",
+                "cls_name": "鞋类",
+                "img": [
+                    "6939837633874",
+                    "6939837633720",
+                    "6970893338006"
+                ],
+                "index": "502",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837633874.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837633720.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893338006.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "503": {
+                "cls_id": "0503",
+                "cls_name": "内衣",
+                "img": [
+                    "6939837608131",
+                    "6939837628863",
+                    "6970893338167"
+                ],
+                "index": "503",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837608131.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837628863.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893338167.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "504": {
+                "cls_id": "0504",
+                "cls_name": "皮带",
+                "img": [
+                    "6941595108884",
+                    "6941595108907",
+                    "6941595108914"
+                ],
+                "index": "504",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108884.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108907.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108914.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "505": {
+                "cls_id": "0505",
+                "cls_name": "功能产品",
+                "img": [
+                    "6939837675645",
+                    "6941595120466",
+                    "6941595111723"
+                ],
+                "index": "505",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837675645.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595120466.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595111723.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "506": {
+                "cls_id": "0506",
+                "cls_name": "游泳产品",
+                "img": [
+                    "6939010800536",
+                    "6939010801724",
+                    "6939010800543"
+                ],
+                "index": "506",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010800536.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010801724.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010800543.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "507": {
+                "cls_id": "0507",
+                "cls_name": "帽子",
+                "img": [
+                    "6941595110252",
+                    "6941595110269",
+                    "6941595110283"
+                ],
+                "index": "507",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110252.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110269.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110283.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "508": {
+                "cls_id": "0508",
+                "cls_name": "眼镜",
+                "img": [
+                    "6939837641794",
+                    "6970574428415",
+                    "52000206"
+                ],
+                "index": "508",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837641794.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574428415.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/52000206.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "509": {
+                "cls_id": "0509",
+                "cls_name": "手套",
+                "img": [
+                    "6939837675690",
+                    "6939837675706",
+                    "6939837622151"
+                ],
+                "index": "509",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837675690.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837675706.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837622151.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "510": {
+                "cls_id": "0510",
+                "cls_name": "袜子",
+                "img": [
+                    "6941196092698",
+                    "6941196092728",
+                    "6939837629778"
+                ],
+                "index": "510",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092698.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092728.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837629778.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "511": {
+                "cls_id": "0511",
+                "cls_name": "围巾",
+                "img": [
+                    "6941196060796",
+                    "6941196060802",
+                    "6941196070597"
+                ],
+                "index": "511",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196060796.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196060802.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196070597.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0501",
+                "cls_name": "伞类",
+                "img": [
+                    "6939837628443",
+                    "6970893337870",
+                    "6939837612190"
+                ],
+                "index": "501",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837628443.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893337870.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837612190.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0502",
+                "cls_name": "鞋类",
+                "img": [
+                    "6939837633874",
+                    "6939837633720",
+                    "6970893338006"
+                ],
+                "index": "502",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837633874.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837633720.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893338006.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0503",
+                "cls_name": "内衣",
+                "img": [
+                    "6939837608131",
+                    "6939837628863",
+                    "6970893338167"
+                ],
+                "index": "503",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837608131.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837628863.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893338167.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0504",
+                "cls_name": "皮带",
+                "img": [
+                    "6941595108884",
+                    "6941595108907",
+                    "6941595108914"
+                ],
+                "index": "504",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108884.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108907.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108914.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0505",
+                "cls_name": "功能产品",
+                "img": [
+                    "6939837675645",
+                    "6941595120466",
+                    "6941595111723"
+                ],
+                "index": "505",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837675645.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595120466.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595111723.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0506",
+                "cls_name": "游泳产品",
+                "img": [
+                    "6939010800536",
+                    "6939010801724",
+                    "6939010800543"
+                ],
+                "index": "506",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010800536.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010801724.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939010800543.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0507",
+                "cls_name": "帽子",
+                "img": [
+                    "6941595110252",
+                    "6941595110269",
+                    "6941595110283"
+                ],
+                "index": "507",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110252.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110269.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595110283.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0508",
+                "cls_name": "眼镜",
+                "img": [
+                    "6939837641794",
+                    "6970574428415",
+                    "52000206"
+                ],
+                "index": "508",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837641794.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574428415.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/52000206.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0509",
+                "cls_name": "手套",
+                "img": [
+                    "6939837675690",
+                    "6939837675706",
+                    "6939837622151"
+                ],
+                "index": "509",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837675690.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837675706.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837622151.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0510",
+                "cls_name": "袜子",
+                "img": [
+                    "6941196092698",
+                    "6941196092728",
+                    "6939837629778"
+                ],
+                "index": "510",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092698.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092728.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837629778.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0511",
+                "cls_name": "围巾",
+                "img": [
+                    "6941196060796",
+                    "6941196060802",
+                    "6941196070597"
+                ],
+                "index": "511",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196060796.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196060802.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196070597.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "06",
+        "cls_name": "精品包饰",
+        "child": {
+            "601": {
+                "cls_id": "0601",
+                "cls_name": "时尚包",
+                "img": [
+                    "6941196094463",
+                    "6941595105661",
+                    "6939837632518"
+                ],
+                "index": "601",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196094463.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595105661.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837632518.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "602": {
+                "cls_id": "0602",
+                "cls_name": "双肩包",
+                "img": [
+                    "6939837630408",
+                    "6939837619342",
+                    "6970893336835"
+                ],
+                "index": "602",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837630408.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837619342.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893336835.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "603": {
+                "cls_id": "0603",
+                "cls_name": "钱包",
+                "img": [
+                    "6941595108990",
+                    "6939837619816",
+                    "6941595101885"
+                ],
+                "index": "603",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108990.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837619816.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595101885.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "604": {
+                "cls_id": "0604",
+                "cls_name": "随意小包",
+                "img": [
+                    "6970893336675",
+                    "6939837635229",
+                    "61000346"
+                ],
+                "index": "604",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893336675.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837635229.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/61000346.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "605": {
+                "cls_id": "0605",
+                "cls_name": "配饰",
+                "img": [
+                    "6939837609480",
+                    "6939837632761",
+                    "6939837604393"
+                ],
+                "index": "605",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837609480.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837632761.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837604393.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "606": {
+                "cls_id": "0606",
+                "cls_name": "行李箱",
+                "img": [
+                    "6939837640421",
+                    "6939837637773",
+                    "6939837630033"
+                ],
+                "index": "606",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837640421.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837637773.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837630033.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "607": {
+                "cls_id": "0607",
+                "cls_name": "功能大包",
+                "img": [
+                    "6939837636240",
+                    "6939837635557",
+                    "6939837630071"
+                ],
+                "index": "607",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837636240.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837635557.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837630071.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "614": {
+                "cls_id": "0614",
+                "cls_name": "儿童包包",
+                "img": [
+                    "6941595101649",
+                    "6939837620027",
+                    "6941595101656"
+                ],
+                "index": "614",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595101649.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837620027.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595101656.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0601",
+                "cls_name": "时尚包",
+                "img": [
+                    "6941196094463",
+                    "6941595105661",
+                    "6939837632518"
+                ],
+                "index": "601",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196094463.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595105661.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837632518.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0602",
+                "cls_name": "双肩包",
+                "img": [
+                    "6939837630408",
+                    "6939837619342",
+                    "6970893336835"
+                ],
+                "index": "602",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837630408.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837619342.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893336835.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0603",
+                "cls_name": "钱包",
+                "img": [
+                    "6941595108990",
+                    "6939837619816",
+                    "6941595101885"
+                ],
+                "index": "603",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595108990.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837619816.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595101885.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0604",
+                "cls_name": "随意小包",
+                "img": [
+                    "6970893336675",
+                    "6939837635229",
+                    "61000346"
+                ],
+                "index": "604",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970893336675.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837635229.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/61000346.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0605",
+                "cls_name": "配饰",
+                "img": [
+                    "6939837609480",
+                    "6939837632761",
+                    "6939837604393"
+                ],
+                "index": "605",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837609480.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837632761.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837604393.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0606",
+                "cls_name": "行李箱",
+                "img": [
+                    "6939837640421",
+                    "6939837637773",
+                    "6939837630033"
+                ],
+                "index": "606",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837640421.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837637773.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837630033.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0607",
+                "cls_name": "功能大包",
+                "img": [
+                    "6939837636240",
+                    "6939837635557",
+                    "6939837630071"
+                ],
+                "index": "607",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837636240.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837635557.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837630071.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0614",
+                "cls_name": "儿童包包",
+                "img": [
+                    "6941595101649",
+                    "6939837620027",
+                    "6941595101656"
+                ],
+                "index": "614",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595101649.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837620027.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595101656.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "07",
+        "cls_name": "儿童玩具",
+        "child": {
+            "704": {
+                "cls_id": "0704",
+                "cls_name": "模型玩具",
+                "img": [
+                    "6970707190684",
+                    "6970707190899",
+                    "6970707190929"
+                ],
+                "index": "704",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970707190684.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970707190899.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970707190929.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "705": {
+                "cls_id": "0705",
+                "cls_name": "拼图积木",
+                "img": [
+                    "6971619010138",
+                    "6971619010145",
+                    "6932691995423"
+                ],
+                "index": "705",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6971619010138.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6971619010145.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6932691995423.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "706": {
+                "cls_id": "0706",
+                "cls_name": "益智玩具",
+                "img": [
+                    "6952516803726",
+                    "6952516803078",
+                    "6970574421683"
+                ],
+                "index": "706",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6952516803726.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6952516803078.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574421683.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "707": {
+                "cls_id": "0707",
+                "cls_name": "季节产品",
+                "img": [
+                    "6926205600774",
+                    "6924270302678",
+                    "6947806402635"
+                ],
+                "index": "707",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6926205600774.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6924270302678.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6947806402635.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "708": {
+                "cls_id": "0708",
+                "cls_name": "潮流玩具",
+                "img": [
+                    "6970643770070",
+                    "6946904786616",
+                    "6946904780423"
+                ],
+                "index": "708",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970643770070.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6946904786616.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6946904780423.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0704",
+                "cls_name": "模型玩具",
+                "img": [
+                    "6970707190684",
+                    "6970707190899",
+                    "6970707190929"
+                ],
+                "index": "704",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970707190684.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970707190899.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970707190929.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0705",
+                "cls_name": "拼图积木",
+                "img": [
+                    "6971619010138",
+                    "6971619010145",
+                    "6932691995423"
+                ],
+                "index": "705",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6971619010138.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6971619010145.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6932691995423.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0706",
+                "cls_name": "益智玩具",
+                "img": [
+                    "6952516803726",
+                    "6952516803078",
+                    "6970574421683"
+                ],
+                "index": "706",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6952516803726.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6952516803078.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574421683.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0707",
+                "cls_name": "季节产品",
+                "img": [
+                    "6926205600774",
+                    "6924270302678",
+                    "6947806402635"
+                ],
+                "index": "707",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6926205600774.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6924270302678.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6947806402635.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0708",
+                "cls_name": "潮流玩具",
+                "img": [
+                    "6970643770070",
+                    "6946904786616",
+                    "6946904780423"
+                ],
+                "index": "708",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970643770070.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6946904786616.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6946904780423.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "08",
+        "cls_name": "毛绒公仔",
+        "child": {
+            "801": {
+                "cls_id": "0801",
+                "cls_name": "小号公仔",
+                "img": [
+                    "6941196092216",
+                    "6939837607868",
+                    "6939837607912"
+                ],
+                "index": "801",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092216.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837607868.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837607912.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "802": {
+                "cls_id": "0802",
+                "cls_name": "中号公仔",
+                "img": [
+                    "6941196081067",
+                    "6941595109881",
+                    "6941595109898"
+                ],
+                "index": "802",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196081067.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109881.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109898.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "803": {
+                "cls_id": "0803",
+                "cls_name": "大号公仔",
+                "img": [
+                    "6941196068327",
+                    "6941196085652",
+                    "6941196086741"
+                ],
+                "index": "803",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196068327.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196085652.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196086741.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "809": {
+                "cls_id": "0809",
+                "cls_name": "版权公仔",
+                "img": [
+                    "6941595109898",
+                    "6941196064633",
+                    "6941196056843"
+                ],
+                "index": "809",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109898.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196064633.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196056843.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0801",
+                "cls_name": "小号公仔",
+                "img": [
+                    "6941196092216",
+                    "6939837607868",
+                    "6939837607912"
+                ],
+                "index": "801",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196092216.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837607868.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837607912.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0802",
+                "cls_name": "中号公仔",
+                "img": [
+                    "6941196081067",
+                    "6941595109881",
+                    "6941595109898"
+                ],
+                "index": "802",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196081067.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109881.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109898.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0803",
+                "cls_name": "大号公仔",
+                "img": [
+                    "6941196068327",
+                    "6941196085652",
+                    "6941196086741"
+                ],
+                "index": "803",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196068327.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196085652.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196086741.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0809",
+                "cls_name": "版权公仔",
+                "img": [
+                    "6941595109898",
+                    "6941196064633",
+                    "6941196056843"
+                ],
+                "index": "809",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595109898.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196064633.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196056843.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "09",
+        "cls_name": "数码配件",
+        "child": {
+            "901": {
+                "cls_id": "0901",
+                "cls_name": "手机配件",
+                "img": [
+                    "6941196078913",
+                    "6941595119309",
+                    "6941595119323"
+                ],
+                "index": "901",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196078913.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595119309.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595119323.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "902": {
+                "cls_id": "0902",
+                "cls_name": "充电设备",
+                "img": [
+                    "6941196099376",
+                    "6941595103148",
+                    "6941595102950"
+                ],
+                "index": "902",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196099376.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595103148.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595102950.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "903": {
+                "cls_id": "0903",
+                "cls_name": "影音娱乐",
+                "img": [
+                    "6939837610288",
+                    "6941196072133",
+                    "6939837631269"
+                ],
+                "index": "903",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837610288.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196072133.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837631269.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "904": {
+                "cls_id": "0904",
+                "cls_name": "灯具",
+                "img": [
+                    "6939837610271",
+                    "6970574420389",
+                    "6939837612763"
+                ],
+                "index": "904",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837610271.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574420389.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837612763.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "905": {
+                "cls_id": "0905",
+                "cls_name": "家用电器",
+                "img": [
+                    "6970574429511",
+                    "6970574425353",
+                    "6970574421843"
+                ],
+                "index": "905",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574429511.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574425353.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574421843.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "906": {
+                "cls_id": "0906",
+                "cls_name": "电脑外设",
+                "img": [
+                    "6970574423809",
+                    "16000573",
+                    "6939837605819"
+                ],
+                "index": "906",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574423809.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/16000573.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837605819.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "907": {
+                "cls_id": "0907",
+                "cls_name": "季节产品",
+                "img": [
+                    "6941196063889",
+                    "6941196083535",
+                    "6941196077978"
+                ],
+                "index": "907",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196063889.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196083535.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196077978.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            "908": {
+                "cls_id": "0908",
+                "cls_name": "移动电源",
+                "img": null,
+                "index": "908",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "0901",
+                "cls_name": "手机配件",
+                "img": [
+                    "6941196078913",
+                    "6941595119309",
+                    "6941595119323"
+                ],
+                "index": "901",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196078913.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595119309.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595119323.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0902",
+                "cls_name": "充电设备",
+                "img": [
+                    "6941196099376",
+                    "6941595103148",
+                    "6941595102950"
+                ],
+                "index": "902",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196099376.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595103148.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941595102950.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0903",
+                "cls_name": "影音娱乐",
+                "img": [
+                    "6939837610288",
+                    "6941196072133",
+                    "6939837631269"
+                ],
+                "index": "903",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837610288.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196072133.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837631269.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0904",
+                "cls_name": "灯具",
+                "img": [
+                    "6939837610271",
+                    "6970574420389",
+                    "6939837612763"
+                ],
+                "index": "904",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837610271.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574420389.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837612763.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0905",
+                "cls_name": "家用电器",
+                "img": [
+                    "6970574429511",
+                    "6970574425353",
+                    "6970574421843"
+                ],
+                "index": "905",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574429511.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574425353.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574421843.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0906",
+                "cls_name": "电脑外设",
+                "img": [
+                    "6970574423809",
+                    "16000573",
+                    "6939837605819"
+                ],
+                "index": "906",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6970574423809.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/16000573.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6939837605819.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0907",
+                "cls_name": "季节产品",
+                "img": [
+                    "6941196063889",
+                    "6941196083535",
+                    "6941196077978"
+                ],
+                "index": "907",
+                "lazy": [
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196063889.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196083535.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://img.xmvogue.com/thumb/6941196077978.jpg?x-oss-process=style/80",
+                        "show": false,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "0908",
+                "cls_name": "移动电源",
+                "img": null,
+                "index": "908",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "10",
+        "cls_name": "休闲食品",
+        "child": {
+            "100101": {
+                "cls_id": "100101",
+                "cls_name": "糖果",
+                "img": null,
+                "index": "100101",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "100102": {
+                "cls_id": "100102",
+                "cls_name": "炒货",
+                "img": null,
+                "index": "100102",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "100103": {
+                "cls_id": "100103",
+                "cls_name": "坚果",
+                "img": null,
+                "index": "100103",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "100104": {
+                "cls_id": "100104",
+                "cls_name": "饼干",
+                "img": null,
+                "index": "100104",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "100105": {
+                "cls_id": "100105",
+                "cls_name": "膨化",
+                "img": null,
+                "index": "100105",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "100106": {
+                "cls_id": "100106",
+                "cls_name": "蜜饯果脯",
+                "img": null,
+                "index": "100106",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "100107": {
+                "cls_id": "100107",
+                "cls_name": "肉脯",
+                "img": null,
+                "index": "100107",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "100108": {
+                "cls_id": "100108",
+                "cls_name": "饮料",
+                "img": null,
+                "index": "100108",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            "100109": {
+                "cls_id": "100109",
+                "cls_name": "其它",
+                "img": null,
+                "index": "100109",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        },
+        "foods": [
+            {
+                "cls_id": "100101",
+                "cls_name": "糖果",
+                "img": null,
+                "index": "100101",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "100102",
+                "cls_name": "炒货",
+                "img": null,
+                "index": "100102",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "100103",
+                "cls_name": "坚果",
+                "img": null,
+                "index": "100103",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "100104",
+                "cls_name": "饼干",
+                "img": null,
+                "index": "100104",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "100105",
+                "cls_name": "膨化",
+                "img": null,
+                "index": "100105",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "100106",
+                "cls_name": "蜜饯果脯",
+                "img": null,
+                "index": "100106",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "100107",
+                "cls_name": "肉脯",
+                "img": null,
+                "index": "100107",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "100108",
+                "cls_name": "饮料",
+                "img": null,
+                "index": "100108",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "100109",
+                "cls_name": "其它",
+                "img": null,
+                "index": "100109",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cls_id": "14",
+        "cls_name": "物料耗材",
+        "foods": [
+            {
+                "cls_id": "14",
+                "cls_name": "物料耗材",
+                "index": "14",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "14",
+                "cls_name": "物料耗材",
+                "index": "14",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            },
+            {
+                "cls_id": "14",
+                "cls_name": "物料耗材",
+                "index": "14",
+                "lazy": [
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    },
+                    {
+                        "src": "http://dh.xmcpcn.com/Public/images/none.jpg",
+                        "show": true,
+                        "loaded": false
+                    }
+                ]
+            }
+        ]
+    }
+]

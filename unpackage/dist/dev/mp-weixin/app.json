@@ -1,0 +1,80 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/cart/cart",
+    "pages/ceshi/ceshi",
+    "pages/product/product",
+    "pages/set/set",
+    "pages/user/user",
+    "pages/login/login",
+    "pages/order/order",
+    "pages/address/address",
+    "pages/oreder-detail/oreder-detail",
+    "pages/oreder-detail/index",
+    "pages/repertory/repertory",
+    "pages/sale/sale",
+    "pages/technology/technology",
+    "pages/category/leftCategory",
+    "pages/product/list",
+    "pages/search/search",
+    "pages/market/market",
+    "pages/sale-detail/sale-detail",
+    "pages/sale-add/sale-add",
+    "pages/logistics-add/logistics-add",
+    "pages/logistics-list/logistics-list",
+    "pages/logistics-detail/logistics-detail",
+    "pages/collect/collect",
+    "pages/update/update",
+    "pages/webview/webview",
+    "pages/discounts/discounts",
+    "pages/Article/Article",
+    "pages/market-detail/market-detail",
+    "pages/order-hddata/order-hddata",
+    "pages/theme/theme",
+    "pages/cart/success/success"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "熙美诚品",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f8f8f8"
+  },
+  "tabBar": {
+    "color": "#C0C4CC",
+    "selectedColor": "#fa436a",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-current.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/category/leftCategory",
+        "iconPath": "static/tab-cate.png",
+        "selectedIconPath": "static/tab-cate-current.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/tab-cart.png",
+        "selectedIconPath": "static/tab-cart-current.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tab-my.png",
+        "selectedIconPath": "static/tab-my-current.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 20000,
+    "uploadFile": 20000
+  },
+  "usingComponents": {}
+}

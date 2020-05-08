@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "技术支持",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar"
+  }
+}

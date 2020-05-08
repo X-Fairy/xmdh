@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "提交成功",
+  "usingComponents": {
+    "over": "/components/over",
+    "imglazy": "/components/img-lazy/img-lazy",
+    "uni-number-box": "/components/uni-number-box"
+  }
+}

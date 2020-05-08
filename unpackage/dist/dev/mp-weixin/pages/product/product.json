@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "详情展示",
+  "usingComponents": {
+    "uni-collapse": "/components/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-collapse-item/uni-collapse-item",
+    "share": "/components/share",
+    "uni-number-box": "/components/uni-number-box",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}

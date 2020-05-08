@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.detaList {
+  margin: 15rpx 0;
+}
+page {
+  background: #f8f8f8;
+  font-size: 28rpx;
+}
+.hr {
+  border-bottom: 1px dashed #ccc;
+  width: 100%;
+}
+.s-header, .s-content, .logistics {
+  background: white;
+  border-radius: 10rpx;
+  width: 100%;
+  padding: 20rpx;
+}
+.s-header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: left;
+  -webkit-justify-content: left;
+          justify-content: left;
+}
+.s-header .lazy {
+  width: 135;
+  height: 125rpx;
+  padding-right: 10rpx;
+}
+.s-header .s-img {
+  width: 24%;
+  height: 125rpx;
+  padding-right: 20rpx;
+}
+.s-header .s-img image {
+  border-radius: 10rpx;
+  width: 100%;
+  height: 125rpx;
+}
+.s-header .s-text {
+  width: 70%;
+  font-size: 28rpx;
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.s-content .s-satus {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.s-content .s-satus view {
+  width: 50%;
+  text-align: center;
+  background-color: #eeeeee;
+  border: 1px solid white;
+  height: 55rpx;
+  line-height: 55rpx;
+  border-radius: 10rpx;
+  font-size: 23rpx;
+}
+.uploadinfo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.uploadinfo .imgFlex {
+  width: 100rpx;
+  height: 100rpx;
+  margin: 0 10rpx;
+}
+.uploadinfo .imgFlex image {
+  width: 100%;
+  height: 100rpx;
+}
+.heardinfo {
+  background-color: #40a8ea;
+  width: 100%;
+  height: 220rpx;
+  color: white;
+  padding: 60rpx;
+}
+

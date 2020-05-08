@@ -1,0 +1,10 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card",
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "over": "/components/over",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}

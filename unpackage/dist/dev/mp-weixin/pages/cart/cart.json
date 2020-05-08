@@ -1,0 +1,13 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "购物车",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "uni-drawer": "/components/uni-drawer/uni-drawer",
+    "uni-number-box": "/components/uni-number-box",
+    "over": "/components/over",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}

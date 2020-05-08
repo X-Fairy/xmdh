@@ -1,0 +1,1 @@
+<view class="lazy"><block wx:if="{{status}}"><image src="{{error}}" mode="aspectFill"></image></block><block wx:else><image style="{{(sty)}}" src="{{url}}" mode="aspectFill" data-url="{{url}}" lazy-load="true" data-event-opts="{{[['error',[['imageError',['$event']]]]]}}" binderror="__e"></image></block></view>

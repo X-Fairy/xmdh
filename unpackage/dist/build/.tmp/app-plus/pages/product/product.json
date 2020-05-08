@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "详情展示",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "share": "/components/share",
+    "uni-number-box": "/components/uni-number-box",
+    "uni-collapse": "/components/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-collapse-item/uni-collapse-item",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}

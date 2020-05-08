@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "库存查询",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "imglazy": "/components/img-lazy/img-lazy",
+    "over": "/components/over"
+  }
+}

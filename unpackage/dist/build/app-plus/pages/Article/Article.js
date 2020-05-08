@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"title.",[1],"data-v-5e381b14 { text-align: center; font-size: ",[0,38],"; }\n.",[1],"contentInfo.",[1],"data-v-5e381b14 .",[1],"_p { max-width: 100%; }\n.",[1],"contentInfo.",[1],"data-v-5e381b14 .",[1],"_p .",[1],"_img { max-width: 100%; }\n.",[1],"contentInfo.",[1],"data-v-5e381b14 .",[1],"_img { max-width: 100%; }\n",],undefined,{path:"./pages/Article/Article.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Article/Article.wxml') } }));

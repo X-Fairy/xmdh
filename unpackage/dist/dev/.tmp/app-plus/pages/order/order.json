@@ -1,0 +1,11 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "我的订单",
+  "bounce": "none",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar",
+    "empty": "/components/empty",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

@@ -1,0 +1,1 @@
+<view><view class="mask"><view class="close"><image src="{{close}}" mode data-event-opts="{{[['tap',[['bindclose',['$event']]]]]}}" bindtap="__e"></image></view><view class="box"><view data-event-opts="{{[['tap',[['bindsrc',['$event']]]]]}}" class="info" bindtap="__e"><image class="animated pulse infinite" src="{{moderSrc}}" mode="aspectFit"></image></view></view></view></view>

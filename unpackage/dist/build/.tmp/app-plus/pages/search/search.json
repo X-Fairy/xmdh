@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-number-box": "/components/uni-number-box",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "scrll-top": "/components/uni-scrollTo/uni-scrollTo",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}

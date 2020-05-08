@@ -1,0 +1,2 @@
+setCssToHead(["wx-web-view { margin: 100px; }\n",],undefined,{path:"./pages/webview/webview.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/webview/webview.wxml') } }));

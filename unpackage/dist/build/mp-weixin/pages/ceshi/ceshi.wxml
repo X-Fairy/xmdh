@@ -1,0 +1,1 @@
+<view><uni-swipe-action vue-id="f38691cc-1" options="{{options2}}" bind:__l="__l" vue-slots="{{['default']}}"><image style="height:120rpx;width:120rpx;" src="../../static/100.png" mode></image></uni-swipe-action></view>

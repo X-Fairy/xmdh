@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "代金券",
+  "usingComponents": {
+    "empty": "/components/empty"
+  }
+}

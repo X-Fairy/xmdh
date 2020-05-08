@@ -1,0 +1,1 @@
+<view><view style="text-align:center;margin:20rpx;color:#999999;">{{'--'+text+'--'}}</view></view>

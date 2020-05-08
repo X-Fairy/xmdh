@@ -1,0 +1,12 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "限时秒杀",
+  "titleNView": false,
+  "usingComponents": {
+    "uni-countdown": "/components/uni-countdown/uni-countdown",
+    "uni-number-box": "/components/uni-number-box",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "imglazy": "/components/img-lazy/img-lazy",
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar"
+  }
+}

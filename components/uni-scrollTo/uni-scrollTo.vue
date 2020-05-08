@@ -1,0 +1,66 @@
+<template>
+	<view>
+		<view class="boder" @click="top">
+			<text class="yticon icon-top"></text>
+		</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		name: 'scrllTop',
+		data() {
+			return {
+
+			}
+		},
+		methods: {
+			top(){
+				uni.pageScrollTo({
+					duration: 300,
+					scrollTop: 0
+				})
+			}
+		}
+	}
+</script>
+
+<style lang="scss">
+	@font-face {
+		font-family: yticon;
+		font-weight: normal;
+		font-style: normal;
+		src: url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAALQAAsAAAAABnQAAAKEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqBAIEHATYCJAMICwYABCAFhG0HMButBcgusG3YkyK1Yw4UflOZlgCGOx4RfL+G7rv7ISAXCagIVWQmKtGxWALVCktGVHggYVhX34/7tR1iugR+ni5hlsTil7fd7vv+TjN4KJrFq2goRCKEhidgCDNM5NrCA3rA+rT54vd5Lse3gA7krvrPezmuvWlSL8A4kALcC6PISiVvGLvgBT4mUKlXH8/a2Mw8KpDYqwJxzqiECgpRSWKFcqG04WASL5Uozx5lQ15E349/glFApiRnt+yejapo4Ge2U+JVwUlgd7OcG+wYOaYhiThszG7LFozNVpnNMQgdqzH4mf0isIujWgT76+z6atANpc8k8+SPKp6BxGSGIDOTfhx5a7Xn4vBrW65689FHD55MLLx1X75EzhYXSfmTt1dvhsuO3l2/r+xofz3rcrWraqJ2FlZ+eiqebp4/erj0H17PJHbuP9u7b9rr2MX3eLNjqwkNQCjKfpUTCF6/XV/d3P+CJfDDdR6Fi3IM81O+X1/wf2QDB5KhsG1Z0mSNxcyQ7PO2VapEAQ42+phqbLmZYijXckv+Mj0ZcuWGicRMo0SVWZQqt4hKU8aPV2nCZYtUgUlrAKHeNTK1PiBX75VIzDtKtPpEqfrIRqXjaLqwymiwolUOkgAVy2nMFMskrkMUxY2zQOO6xPOKiFsE7rIEDnj95cI4mMCX2OImaFAIggm3DDwGngNdt7DNrRgowhsVwo74fKTpTV7FMlCRVRyQCECFydIwRmExkWC0UFT5/CxAxekkvKOvLrkIcC42PRbg5R9AjGvNQX2P8oorgQoSBAIjOIsBGwPzgE5nwezmeTFAIXhFJ6RtET5nGBmq9W6vN/7uGFSyTVk4s3Klp8ykchwh')
+	}
+
+
+	.yticon {
+		font-family: "yticon" !important;
+		font-size: 16px;
+		font-style: normal;
+		color: #999999;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+
+
+	.icon-top:before {
+		content: "\e603";
+	}
+
+	.boder {
+		position: fixed;
+		z-index: 30;
+		border-radius:50%;
+		background: white;
+		width: 80upx;
+		height:80upx;
+		text-align: center;
+		line-height:80upx;
+		bottom: 0;
+		right: 0;
+		margin: 20upx;
+		border:1px solid  #eeeeee;
+		
+	}
+</style>

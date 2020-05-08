@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "购物车",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-number-box": "/components/uni-number-box",
+    "uni-drawer": "/components/uni-drawer/uni-drawer",
+    "over": "/components/over",
+    "imglazy": "/components/img-lazy/img-lazy"
+  }
+}
